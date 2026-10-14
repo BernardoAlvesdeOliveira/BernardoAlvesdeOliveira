@@ -1,9 +1,3 @@
-<div align="center">
-
-# Bernardo Alves de Oliveira
-
-</div>
-
 ## Sobre mim
 
 - Desenvolvedor interessado em aplicações **full stack**.

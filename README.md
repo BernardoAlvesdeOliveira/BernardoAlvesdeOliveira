@@ -2,15 +2,6 @@
 
 # Bernardo Alves de Oliveira
 
-### Desenvolvedor Full Stack
-
-Construo aplicações web, APIs e soluções integradas com foco em código limpo,
-arquitetura simples e aprendizado contínuo.
-
-<a href="https://github.com/BernardoAlvesdeOliveira">
-  <img src="https://img.shields.io/badge/GitHub-BernardoAlvesdeOliveira-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-
 </div>
 
 ## Sobre mim
@@ -52,24 +43,3 @@ arquitetura simples e aprendizado contínuo.
 - Desenvolvimento full stack com TypeScript.
 - Inteligência artificial aplicada a produtos.
 - Docker, testes automatizados e entrega contínua.
-
-## Estatísticas
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BernardoAlvesdeOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoAlvesdeOliveira&layout=compact&theme=tokyonight&langs_count=8" alt="Linguagens mais usadas">
-</div>
-
-## Contato
-
-- GitHub: [@BernardoAlvesdeOliveira](https://github.com/BernardoAlvesdeOliveira)
-- LinkedIn: [adicione seu perfil](https://www.linkedin.com/)
-- E-mail: `adicione seu e-mail`
-
----
-
-<div align="center">
-
-Obrigado pela visita.
-
-</div>

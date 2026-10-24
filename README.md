@@ -1,39 +1,39 @@
-## Sobre mim
+## About me
 
-- Desenvolvedor interessado em aplicações **full stack**.
-- Experiência prática com desenvolvimento de APIs, backends e interfaces web.
-- Interesse em automação, inteligência artificial e integração entre sistemas.
-- Sempre estudando novas ferramentas para criar software mais confiável e escalável.
+- Developer interested in **full-stack** applications.
+- Hands-on experience developing APIs, backends, and web interfaces.
+- Interested in automation, artificial intelligence, and system integration.
+- Always learning new tools to build more reliable and scalable software.
 
-## Stacks
+## Tech stack
 
-### Linguagens
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,php,java,html,css" alt="TypeScript, JavaScript, Python, PHP, Java, HTML e CSS">
-</p>
-
-### Tecnologias e ferramentas
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,react,spring,mysql,postgres,docker,git,github,linux" alt="Node.js, React, Spring, MySQL, PostgreSQL, Docker, Git, GitHub e Linux">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,php,java,html,css" alt="TypeScript, JavaScript, Python, PHP, Java, HTML, and CSS">
 </p>
 
-> Algumas tecnologias representam áreas de estudo e projetos em desenvolvimento.
+### Technologies and tools
 
-## Projetos em destaque
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,spring,laravel,mysql,postgres,docker,aws,redis,git,github,linux" alt="Node.js, React, Spring, Laravel, MySQL, PostgreSQL, Docker, AWS, Redis, Git, GitHub, and Linux">
+</p>
 
-| Projeto | Descrição | Tecnologia |
+> Some technologies represent areas of study and projects in development.
+
+## Featured projects
+
+| Project | Description | Technology |
 | --- | --- | --- |
-| [Tarefy](https://github.com/BernardoAlvesdeOliveira/Tarefy) | Aplicação web para gerenciamento de tarefas | TypeScript |
-| [HelpAI](https://github.com/BernardoAlvesdeOliveira/HelpAI) | Sistema de atendimento apoiado por inteligência artificial | PHP |
-| [dslist](https://github.com/BernardoAlvesdeOliveira/dslist) | API e sistema de lista de jogos | Java |
-| [app-web-full-stack](https://github.com/BernardoAlvesdeOliveira/app-web-full-stack) | Aplicação web com frontend e backend | Python |
+| [Tarefy](https://github.com/BernardoAlvesdeOliveira/Tarefy) | Web application for task management | TypeScript |
+| [HelpAI](https://github.com/BernardoAlvesdeOliveira/HelpAI) | Customer service system powered by artificial intelligence | PHP |
+| [dslist](https://github.com/BernardoAlvesdeOliveira/dslist) | API and game list system | Java |
+| [app-web-full-stack](https://github.com/BernardoAlvesdeOliveira/app-web-full-stack) | Web application with frontend and backend | Python |
 
-## O que estou estudando
+## What I am studying
 
-- Arquitetura de software e boas práticas de desenvolvimento.
-- APIs REST, autenticação e integração entre serviços.
-- Desenvolvimento full stack com TypeScript.
-- Inteligência artificial aplicada a produtos.
-- Docker, testes automatizados e entrega contínua.
+- Software architecture and development best practices.
+- REST APIs, authentication, and service integration.
+- Full-stack development with TypeScript.
+- Artificial intelligence applied to products.
+- Docker, automated testing, and continuous delivery.

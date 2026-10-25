@@ -16,7 +16,7 @@
 ### Technologies and tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,react,spring,laravel,mysql,postgres,docker,aws,redis" alt="Node.js, React, Spring, Laravel, PostgreSQL, Docker, AWS, and Redis">
+  <img src="https://skillicons.dev/icons?i=nodejs,react,spring,laravel,postgres,docker,aws,redis" alt="Node.js, React, Spring, Laravel, PostgreSQL, Docker, AWS, and Redis">
 </p>
 
 > Some technologies represent areas of study and projects in development.
